@@ -1,0 +1,8 @@
+pandas
+bcrypt
+Flask==2.3.2
+bcrypt==4.0.1
+flask
+requests
+pandas
+pyserial  # for serial communication with devices if necessary
